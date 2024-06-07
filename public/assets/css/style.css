@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Khmer:wght@100..900&display=swap');
+*{
+    font-family: "Noto Sans Khmer", sans-serif;
+   
+}
+
+.sub-menu{
+           
+    display: none;
+}
+
+.sub-menu .arrow{
+    display: block;
+}
+li.showMenu .sub-menu{
+    display: block;
+}
+.font-bx{
+    font-size: 100px; 
+}
+.shadow-box{
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+.arrow{
+    cursor: pointer;
+}
+.iocn-link:hover{
+    background-color: rgb(107, 104, 104);
+}
+.magin-right{
+    margin-right: 20px;
+}
+.wid{
+    width: 30%;
+}
+.wid-box2{
+    width: 60%;
+}
+.sidebar a{
+    color: white;
+}
+
+
